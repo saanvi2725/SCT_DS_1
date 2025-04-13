@@ -16,5 +16,4 @@ Files Included:
 Task_1_Python. ipynb: this is the Python notebook that contains the code used to generate the visualizations.
 README.md: This file.
 
-Observations:
-The visualizations show that the 21-64 age group represents the largest portion of India's population.
+
